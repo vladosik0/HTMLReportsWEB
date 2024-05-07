@@ -1,0 +1,51 @@
+.lab_button{
+    width:125px;
+    height:40px;
+    border: 2px solid yellow;
+    background-color: aliceblue;
+    text-align: center;
+    display:inline-block;
+    cursor: pointer;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.1em;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration: none;
+    color:black
+}
+
+*{
+              font-family: 'Montserrat', sans-serif;
+}
+
+.info_button {
+    max-width: 180px;
+    height:60px;
+    border: 2px solid yellow;
+    background-color: aliceblue;
+    display:block;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    padding-top: -5px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.1em;
+    border-radius: 10px;
+    cursor: pointer;    
+    margin-top: 5px;
+    text-decoration: none;
+    color:black;
+}
+.task-div {
+    background-color: lightgreen;
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+#block-to-resize {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 16px;
+    border: 4px dashed red;
+  }
